@@ -1,5 +1,7 @@
 # Learning-Management-System
 
+Fall23
+
 Framework Frontend: ReactJS, BootStrap
 Backend: Django Rest Framework
 Database: Mysql
